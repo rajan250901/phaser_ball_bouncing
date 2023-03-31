@@ -29,7 +29,7 @@ const config={
   height:window.innerHeight,
   width:window.innerWidth,
   physics: {
-    default:'arcade',
+    default: 'arcade',
     arcade: {
       gravity: {y:0, x:0},
       debug:false
